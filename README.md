@@ -13,7 +13,7 @@ Instructions
 1. Read "The Exercise" below.
 2. Clone this repository down locally, and perform the exercise.
 3. Push your work up to a new, *private* repository in your own Github account.
-4. At some point before your interview, give the Github user [`slipo`](https://github.com/slipo) read access to your repository.
+4. At some point before your interview, give the Github user [`TalentedCubeRecruiting`](https://github.com/TalentedCubeRecruiting) read access to your repository.
 
 The Exercise
 ------------
